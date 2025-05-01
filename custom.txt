@@ -1,0 +1,13 @@
+"custom": [
+    {
+      "idName": "",
+      "name": "",
+      "imageUrl": "https://iissmaa2.github.io/sky_assets_data/final_data/",
+      "binaryUrl": "https://iissmaa2.github.io/sky_assets_data/final_data/",
+      "id": "30005",
+      "championId": "",
+      "rarity": "custom",
+      "num": 5,
+      "chromas": []
+    }
+  ]
